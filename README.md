@@ -24,7 +24,7 @@ An Android application built using Kotlin and Jetpack Compose.
 
 ## Status
 
-## Status
+# Status
 
 🚧 Currently in planning and development phase.
 
