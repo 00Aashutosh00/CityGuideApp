@@ -24,4 +24,15 @@ An Android application built using Kotlin and Jetpack Compose.
 
 ## Status
 
-Project planning phase.
+## Status
+
+🚧 Currently in planning and development phase.
+
+Planned Milestones:
+- [ ] Project Setup
+- [ ] City Search Screen
+- [ ] City Details Screen
+- [ ] API Integration
+- [ ] Offline Support
+- [ ] Firebase Authentication
+- [ ] Play Store Release
